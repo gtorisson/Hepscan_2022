@@ -1,7 +1,7 @@
-## Hepscan 2022
+# Hepscan
 
-This is a project studying agreement and reliability of transient elastography
+### *Project Description*
 
-Author GUSTAV TORISSON
+Hepscan is a research project aiming to determine agreement and reliability of repeated measurements of liver stiffness using transient elastography.
 
-Started in 23rd July 2022
+
